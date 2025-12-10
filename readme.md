@@ -328,7 +328,4 @@ python manage.py runserver
    - Agregar opción de editar y eliminar productos
    - Implementar un carrito de compras
    - Añadir imágenes a los productos
-#   A E 5 _ M 7  
- #   A E 5 _ M 7  
- #   A E 5 _ M 7  
- 
+#
